@@ -27,11 +27,6 @@ ENV/
 # API Keys and Sensitive Information
 config.py
 
-# Logs and Results
-logs/
-*.csv
-asked_questions.txt
-
 # IDE
 .idea/
 .vscode/
